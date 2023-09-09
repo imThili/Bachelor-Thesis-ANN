@@ -1,5 +1,6 @@
 # An artificial neural network to predict leakage amount in a water distribution network
-Let me present my bachelor thesis > Water leakage detection in a water distribution network using Artificial Neural Network
+Let me present my bachelor thesis 
+> Water leakage detection in a water distribution network using Artificial Neural Network
 
 ## Overview
 An artificial neural network (ANN) made in Python using the machine learning library TensorFlow 2 and the Keras API that is built on top of TensorFlow. The aim of the ANN is to predict the number of existing leakages in a water distribution network (WDN) when taking different pressure data as
