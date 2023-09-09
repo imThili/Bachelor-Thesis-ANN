@@ -1,4 +1,4 @@
-# An Artificial Neural Network to predict leakage amount in a Water Distribution Network
+# An artificial neural network to predict leakage amount in a water distribution network
 Let me present my bachelor thesis > Water leakage detection in a water distribution network using Artificial Neural Network
 
 ## Overview
