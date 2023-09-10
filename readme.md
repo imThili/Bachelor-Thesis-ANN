@@ -11,7 +11,7 @@ To analyze the model's results, descriptive statistics were used, and the Root M
 (RMSE) was calculated to 0.452. The results were able to discover a method for an ANN to detect pipe
 leakage in a WDN using BattLeDIM 2020 dataset, but not how to localize them. The model built in this
 study could be used to detect new leakages in a WDN by taking in new readings from pressure sensors
-and outputting the number of leakages in the WDN. When the output is increased by one, the model
+and outputting the number of existing leakages in the WDN. When the output is increased by one, the model
 shows that a new leak has occurred.
 
 ## More
