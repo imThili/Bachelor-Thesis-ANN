@@ -14,5 +14,5 @@ study could be used to detect new leakages in a WDN by taking in new readings fr
 and outputting the number of leakages in the WDN. When the output is increased by one, the model
 shows that a new leak has occurred.
 
-## tbd
-- graphs and tables
+## More
+You're welcome to send a message if there are any questions and I'll be glad to answer :)
